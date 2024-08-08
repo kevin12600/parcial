@@ -11,6 +11,6 @@ package com.mycompany.primer_parcial;
 public class Primer_parcial {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("hola mundo.2");
     }
 }
